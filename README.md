@@ -1,4 +1,3 @@
-# Dashboard
 # Car Sales Dashboard 
 
 ## 📊 Overview
