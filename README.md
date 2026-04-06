@@ -51,4 +51,6 @@ This project is an interactive **Car Sales Dashboard** built using Microsoft Pow
 
 ## 👤 Author
 Sowmiya Ramaraj
-Dashboard:https://github.com/Sowmiya-050602/Dashboard/blob/main/car%20sales1.png
+
+Image 1 :https://github.com/Sowmiya-050602/Dashboard/blob/main/car%20sales1.png
+image 2 :https://github.com/Sowmiya-050602/Dashboard/blob/main/car%20sales%202.png
