@@ -49,6 +49,6 @@ This project is an interactive **Car Sales Dashboard** built using Microsoft Pow
 * Market trend analysis
 * Executive dashboards
 
-
 ## 👤 Author
 Sowmiya Ramaraj
+Dashboard:https://github.com/Sowmiya-050602/Dashboard/blob/main/car%20sales1.png
